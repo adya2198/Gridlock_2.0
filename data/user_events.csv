@@ -1,0 +1,2 @@
+id,event_type,latitude,longitude,event_cause,requires_road_closure,start_datetime,end_datetime,modified_datetime,resolved_datetime,closed_datetime,status,veh_type,corridor,priority,zone,police_station,junction
+USR86404FF6,unplanned,12.9716,77.5946,accident,FALSE,2026-06-23T15:27:36.772187+00:00,2026-06-23T16:27:36.772187+00:00,2026-06-23T16:27:36.772187+00:00,NULL,NULL,active,unknown,airport new south road,high,central zone 1,unknown,unknown
